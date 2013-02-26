@@ -1,5 +1,6 @@
 import sys
 sys.path.append('.')
+sys.path.append('../libs/.')
 
 from driver import Driver
 from driver.dummydriver import DummyDriver
